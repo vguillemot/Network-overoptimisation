@@ -4,8 +4,6 @@
 ### several different sets of parameters.    ##
 ###############################################
 
-setwd("D:/OverOptim/")
-
 rm(list=ls())
 
 N <- 50
